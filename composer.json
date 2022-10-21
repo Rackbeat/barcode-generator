@@ -1,0 +1,14 @@
+{
+    "name": "rackbeat/barcode-generator",
+    "description": "Barcode Generator Code Grabbed from other Author who didn't publish to Packagist",
+    "keywords": [],
+    "license": "MIT",
+    "authors": [],
+    "require": {},
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "Rackbeat\\BarcodeGenerator\\": "src"
+        }
+    }
+}
